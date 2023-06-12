@@ -36,7 +36,7 @@ body {
   color:white;
   text-transform: capitalize;
   font-size: 60px;
-  
+  font-weight: lighter;
 }
 section{
   text-align: center;
